@@ -1,4 +1,4 @@
-Olá! Eu sou o João Gabriel Gomes Alves 👋
+Olá! Eu sou o João Gabriel 👋
 
 <div>
   <a href="https://github.com/Hellrdruk">
